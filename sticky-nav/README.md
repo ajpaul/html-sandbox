@@ -1,1 +1,1 @@
-This is a project to build a sticky-nav bar that sticks to the top of the page right before it would scroll off
+This is a project to build a sticky-nav bar that sticks to the top of the page right before it would scroll off. I've had to do this a few times with table headers recently, so I figured I would take a look at a way that @wesbos solves this problem just for fun.

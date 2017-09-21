@@ -1,7 +1,7 @@
 {
   "name": "gulp-template",
   "version": "1.0.0",
-  "description": "Gulp starter template",
+  "description": "Sample project to build a sticky nav bar.",
   "main": "index.js",
   "scripts": {
     "test": "test"
